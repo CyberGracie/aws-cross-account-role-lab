@@ -520,7 +520,7 @@ To avoid any unintended access after the lab, clean up in this order:
 
 ## Summary
 
-In this lab you:
+In this lab, I:
 
 - Created two separate AWS accounts and mapped their Account IDs
 - Created an IAM Role in Account B with a trust policy pointing to Account A
@@ -535,7 +535,7 @@ This pattern — cross-account role switching — is used in virtually every mul
 
 ## Author
 
-**Gracie Emmanuel** — Cloud Engineer in Training  
+**Gracie Emmanuel** 
 Lab completed: May 4, 2026  
 AWS Accounts used: `367213325880` (Account A) and `202324795125` (Account B)
 
